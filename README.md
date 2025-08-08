@@ -73,16 +73,7 @@
 
 ---
 
-## 📈 Quick Stats (auto-generated suggestions)
-
-* **Lighthouse improvement:** `Before: 72 — After: 94 (+30%)`
-* **Active projects:** 3+ maintained
-* **Preferred workflow:** GitHub PRs + CI (Vite/Webpack) + Lightweight backend (Fastify)
-
----
-
 ## 📫 Contact
 
 * **Email:** [omer@gedik.dev](mailto:omer@gedik.dev)
 * **LinkedIn:** [https://linkedin.com/in/omerfarukgedik](https://linkedin.com/in/omerfarukgedik)
-* **Website:** [https://gedik.dev](https://gedik.dev)
